@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently working on Hugesmile as an Chief Executive Officer(CEO)
+Currently working on Hugesmile as an Chief Executive Officer(CEO)
 
 
 ## 🌐 Socials:
