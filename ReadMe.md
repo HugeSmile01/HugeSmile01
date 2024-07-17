@@ -18,6 +18,3 @@ I am currently serving as the Chief Executive Officer (CEO) at Hugesmile.
 ---
 [![](https://visitcount.itsvg.in/api?id=hugesmile01&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
