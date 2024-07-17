@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am currently serving as the Chief Executive Officer (CEO) at Hugesmile.
 
-#Junior Fullstack developer - specialized on front-end
+# Junior Fullstack developer - specialized on front-end
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hugesmile.org) 
