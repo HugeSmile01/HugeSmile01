@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently serving as the Chief Executive Officer (CEO) at Hugesmile.
+I am currently serving as the President at Hugesmile.
 
 # Junior Fullstack developer - specialized on front-end
 
