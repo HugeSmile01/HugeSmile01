@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently serving as the 𝗖𝗘𝗢, 𝗠𝗔𝗡𝗔𝗚𝗘𝗥, 𝗣𝗥𝗘𝗦𝗜𝗗𝗘𝗡𝗧 at 𝐇𝐔𝐆𝐄𝐒𝐌𝐈𝐋𝐄.
+I am currently serving as the 𝗖𝗘𝗢, 𝗠𝗔𝗡𝗔𝗚𝗘𝗥, 𝗔𝗡𝗗 𝗣𝗥𝗘𝗦𝗜𝗗𝗘𝗡𝗧 at 𝐇𝐔𝐆𝐄𝐒𝐌𝐈𝐋𝐄.
 
 # Fullstack  website developer - both frond-end & back-end, plus cybersecurity expert (Anti-hacker)
 
