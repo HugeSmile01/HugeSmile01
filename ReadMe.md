@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am currently serving as the President at Hugesmile.
 
-# Junior Fullstack developer - specialized on front-end
+# Fullstack  website developer - both frond-end & back-end, plus cybersecurity expert (Anti-hacker)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hugesmile.org) 
